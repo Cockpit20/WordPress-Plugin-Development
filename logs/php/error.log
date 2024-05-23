@@ -1,0 +1,272 @@
+[23-May-2024 13:10:19 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "mlb_actors_metabox_html" not found or invalid function name in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\includes\template.php:1456
+Stack trace:
+#0 C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\includes\post.php(2383): do_meta_boxes(Object(WP_Screen), 'side', Object(WP_Post))
+#1 C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\edit-form-blocks.php(316): the_block_editor_meta_boxes()
+#2 C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\post.php(187): require('C:\\Users\\KIIT\\L...')
+#3 {main}
+  thrown in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\includes\template.php on line 1456
+[23-May-2024 13:10:29 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "mlb_actors_metabox_html" not found or invalid function name in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\includes\template.php:1456
+Stack trace:
+#0 C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\includes\post.php(2383): do_meta_boxes(Object(WP_Screen), 'side', Object(WP_Post))
+#1 C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\edit-form-blocks.php(316): the_block_editor_meta_boxes()
+#2 C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\post.php(187): require('C:\\Users\\KIIT\\L...')
+#3 {main}
+  thrown in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\includes\template.php on line 1456
+[23-May-2024 13:10:50 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "mlb_actors_metabox_html" not found or invalid function name in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\includes\template.php:1456
+Stack trace:
+#0 C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\includes\post.php(2383): do_meta_boxes(Object(WP_Screen), 'side', Object(WP_Post))
+#1 C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\edit-form-blocks.php(316): the_block_editor_meta_boxes()
+#2 C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\post.php(187): require('C:\\Users\\KIIT\\L...')
+#3 {main}
+  thrown in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\includes\template.php on line 1456
+[23-May-2024 13:12:08 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "mlb_actors_metabox_html" not found or invalid function name in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\includes\template.php:1456
+Stack trace:
+#0 C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\includes\post.php(2383): do_meta_boxes(Object(WP_Screen), 'side', Object(WP_Post))
+#1 C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\edit-form-blocks.php(316): the_block_editor_meta_boxes()
+#2 C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\post.php(187): require('C:\\Users\\KIIT\\L...')
+#3 {main}
+  thrown in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\includes\template.php on line 1456
+[23-May-2024 13:50:09 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:09 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:11 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:11 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:11 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:20 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:24 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:24 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:24 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:26 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:31 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:31 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:39 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:39 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:43 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:55 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:57 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:58 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:59 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:50:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:02 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:03 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:04 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:06 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:07 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:09 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:15 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:38 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:38 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:43 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:43 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:43 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:43 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:47 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:50 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:52 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:52 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:52 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:52 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:53 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:56 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:56 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:51:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:02 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:02 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:02 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:02 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:02 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:04 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:05 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:05 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:58 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:52:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:54:59 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:54:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:57:00 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:57:00 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:58:19 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:58:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:58:19 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:58:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:59:20 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 13:59:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:27 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:35 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:37 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:37 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:38 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:40 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:46 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:49 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:49 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:00:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:01:20 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:01:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:01:25 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:01:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:01:30 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:01:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:01:30 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:01:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:04:16 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:04:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:04:16 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:04:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:04:18 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:04:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:04:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:04:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:04:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:04:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:05:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:05:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:06:22 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:06:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:10:27 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:10:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:10:28 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:10:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:10:28 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:10:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:11:18 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:11:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:11:20 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:11:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:11:20 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:11:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:12:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[23-May-2024 14:12:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
