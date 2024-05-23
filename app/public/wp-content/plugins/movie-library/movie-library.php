@@ -16,16 +16,17 @@
  */
 
 require_once __DIR__ . '/post-types/movie.php';
-require_once __DIR__ . '/taxonomies/genre.php';
 require_once __DIR__ . '/post-types/person.php';
+require_once __DIR__ . '/taxonomies/genre.php';
 require_once __DIR__ . '/taxonomies/career.php';
+require_once __DIR__ . '/taxonomies/utility.php';
 
 function mlb_activation()
 {
     // Add functionality to run on plugin activation.
     movie_init();
-    genre_init();
     person_init();
+    genre_init();
     career_init();
     flush_rewrite_rules();
 }

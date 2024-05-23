@@ -155,7 +155,7 @@ function mlb_actors_metabox_html($post)
 {
 	$mlb_actors = (array)get_post_meta($post->ID, 'actors', true);
 	$people = get_posts([
-		'post-type' => 'person',
+		'post_type' => 'person',
 		'post_status' => 'publish',
 		'posts_per_page' => 10,
 		'suppress_filters' => false,
@@ -197,9 +197,9 @@ function mlb_save_actors($post_id)
 		return;
 	}
 
-	if (!current_user_can('edit_post')) {
-		return;
-	}
+	// if (!current_user_can('edit_post')) {
+	// 	return;
+	// }
 
 	$mlb_actors_nonce = sanitize_text_field(filter_input(INPUT_POST, 'mlb_actors_nonce'));
 
@@ -211,9 +211,18 @@ function mlb_save_actors($post_id)
 
 	if (!empty($actors) && is_array($actors)) {
 		$actors = array_map('absint', $actors);
+		$utility_terms = array();
+
+		foreach ($actors as $actor_id) {
+			$utility_terms[] = sprintf('person-%d', $actor_id);
+		}
+
 		update_post_meta($post_id, 'actors', $actors);
+
+		wp_set_object_terms($post_id, $utility_terms, 'utility', false);
 	} else {
 		delete_post_meta($post_id, 'actors');
+		wp_delete_object_term_relationships($post_id, 'utility');
 	}
 }
 
