@@ -270,3 +270,5 @@ Stack trace:
 [23-May-2024 14:11:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
 [23-May-2024 14:12:21 UTC] PHP Warning:  Undefined variable $people in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
 [23-May-2024 14:12:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-content\plugins\movie-library\post-types\movie.php on line 170
+[24-May-2024 17:39:21 UTC] PHP Warning:  Array to string conversion in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-admin\edit.php on line 344
+[24-May-2024 17:39:21 UTC] PHP Warning:  Array to string conversion in C:\Users\KIIT\Local Sites\learn-wp\app\public\wp-includes\formatting.php on line 1108
