@@ -22,3 +22,5 @@
 2024/05/24 17:07:12 [error] 28084#14668: *14238 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-admin/about.php HTTP/1.0", upstream: "fastcgi://php", host: "learn-wp.local", referrer: "http://learn-wp.local/wp-admin/edit.php?post_type=movie"
 2024/05/24 17:07:14 [error] 28084#14668: *14239 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-admin/post.php?post=28&action=edit HTTP/1.0", upstream: "fastcgi://php", host: "learn-wp.local", referrer: "http://learn-wp.local/wp-admin/edit.php?post_type=movie"
 2024/05/24 17:07:42 [error] 28084#14668: *14244 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "POST /wp-cron.php?doing_wp_cron=1716550662.0611670017242431640625 HTTP/1.0", upstream: "fastcgi://php", host: "learn-wp.local"
+2024/06/05 15:34:29 [alert] 16968#15484: worker process 58524 exited with code C0000142
+2024/06/05 15:34:29 [alert] 16968#15484: could not respawn worker
